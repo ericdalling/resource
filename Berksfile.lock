@@ -1,0 +1,7 @@
+DEPENDENCIES
+  resource
+    path: .
+    metadata: true
+
+GRAPH
+  resource (0.0.1)
